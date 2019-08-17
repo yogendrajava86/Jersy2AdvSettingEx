@@ -1,5 +1,5 @@
-# Jersey2AdvSettingEx
-Jersey2 Advaced Setting with Swagger UI
+# Jersey2 Advanced Setting Example
+Jersey2 Advanced Setting with Swagger UI
 
 ## Output
 
